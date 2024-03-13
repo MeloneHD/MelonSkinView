@@ -14,7 +14,7 @@ Official website of the Project
 -> https://melon-skin-view.vercel.app
 
 
-Offical Discord oF the website
+Offical Discord of the website
 
 
 -> https://discord.gg/pNHUBtMaxc
